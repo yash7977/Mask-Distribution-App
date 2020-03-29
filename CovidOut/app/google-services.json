@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237226881009",
+    "firebase_url": "https://covidout-f3407.firebaseio.com",
+    "project_id": "covidout-f3407",
+    "storage_bucket": "covidout-f3407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237226881009:android:f066f8c22df98fe984de50",
+        "android_client_info": {
+          "package_name": "com.example.covidout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237226881009-gu5nlfmj204oqdonaa30ei3u6n55101q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNyHFtqejxSmZOSn476JdVkIQoaESi_lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237226881009-gu5nlfmj204oqdonaa30ei3u6n55101q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
